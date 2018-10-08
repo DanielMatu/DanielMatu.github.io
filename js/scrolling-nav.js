@@ -18,4 +18,17 @@ $(function() {
     });
 });
 
-
+$("#contactForm").submit(function(){
+   $.ajax{
+       type:"POST",
+       url:"send_form_email.php",
+       data:{   
+           first_name: $("#first_name").val(),
+           last_name: $("#last_name").val(),
+           email: $("#email").val(),
+           comments: $("#comments").val()
+       }
+       
+   } 
+    
+});
