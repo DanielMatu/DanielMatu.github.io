@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!--
+
 <head>
 
     <meta charset="utf-8">
@@ -11,7 +11,6 @@
     <link rel="stylesheet" media="screen" href="css/style.css">
     <link rel="icon" href="favicon.ico" type="image/x-icon"/>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-
     <title>Daniel Matu</title>
 
     <!-- Bootstrap Core CSS -->
@@ -142,6 +141,32 @@
 
     </section>
     
+    <section id="cb" class="cb-section">
+        <div class="container">
+            <div class="row">
+                
+                <div style="margin-top:150px;">
+                <div class="carouselContent" >
+
+									<p> <h3 style="color:#3fff99;">Cureboredom.org</h3>
+                                        <p style="font-size:12px"><i>Lifestyle Webapp</i></p>
+                                    </br>
+                                         Facebook Integration<br> 
+                                         Responsive Mobile Design<br>
+                                         Angular Form Validation<br>
+										<a href="https://cureboredom.org">Demo Available!</a><br>
+                                        <a href="https://github.com/DanielMatu/theogs/tree/master/cureboredom">
+                                        <p style="font-size:15px">Repo</p></a>                                    
+									</p>	
+                </div>
+                </div>
+                
+                
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <section id = "sw" class="swSection">
         <div class="container">
             <div class="row">
@@ -188,7 +213,5 @@
     <script src="js/scrolling-nav.js"></script>
 
 </body>
--->
-
 
 </html>
