@@ -1,0 +1,23 @@
+.project {
+    cursor: pointer;
+    margin-right: 50px;
+}
+
+.projectTitle {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #000000;
+
+}
+
+.projectThumbnail {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+
+    object-fit: cover;
+    -webkit-box-shadow: 1px 1px 23px -6px #000000; 
+    box-shadow: 1px 1px 23px 0px #000000;
+}
+
