@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/DanielMatu.github.io/static/css/main.00075e73.chunk.css",
-    "main.js": "/DanielMatu.github.io/static/js/main.1908d754.chunk.js",
-    "main.js.map": "/DanielMatu.github.io/static/js/main.1908d754.chunk.js.map",
-    "runtime-main.js": "/DanielMatu.github.io/static/js/runtime-main.fe259412.js",
-    "runtime-main.js.map": "/DanielMatu.github.io/static/js/runtime-main.fe259412.js.map",
-    "static/js/2.238b4104.chunk.js": "/DanielMatu.github.io/static/js/2.238b4104.chunk.js",
-    "static/js/2.238b4104.chunk.js.map": "/DanielMatu.github.io/static/js/2.238b4104.chunk.js.map",
-    "index.html": "/DanielMatu.github.io/index.html",
-    "static/css/main.00075e73.chunk.css.map": "/DanielMatu.github.io/static/css/main.00075e73.chunk.css.map",
-    "static/js/2.238b4104.chunk.js.LICENSE.txt": "/DanielMatu.github.io/static/js/2.238b4104.chunk.js.LICENSE.txt"
+    "main.css": "/index/static/css/main.00075e73.chunk.css",
+    "main.js": "/index/static/js/main.1908d754.chunk.js",
+    "main.js.map": "/index/static/js/main.1908d754.chunk.js.map",
+    "runtime-main.js": "/index/static/js/runtime-main.4abb397c.js",
+    "runtime-main.js.map": "/index/static/js/runtime-main.4abb397c.js.map",
+    "static/js/2.238b4104.chunk.js": "/index/static/js/2.238b4104.chunk.js",
+    "static/js/2.238b4104.chunk.js.map": "/index/static/js/2.238b4104.chunk.js.map",
+    "index.html": "/index/index.html",
+    "static/css/main.00075e73.chunk.css.map": "/index/static/css/main.00075e73.chunk.css.map",
+    "static/js/2.238b4104.chunk.js.LICENSE.txt": "/index/static/js/2.238b4104.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe259412.js",
+    "static/js/runtime-main.4abb397c.js",
     "static/js/2.238b4104.chunk.js",
     "static/css/main.00075e73.chunk.css",
     "static/js/main.1908d754.chunk.js"
