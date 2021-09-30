@@ -21,6 +21,7 @@ export default function Project() {
         setCurrentProject(foundProject)
     }, [params])
 
+    //
 
     return (
         <>
