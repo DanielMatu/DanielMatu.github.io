@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/danielmatu.github.io/static/css/main.00075e73.chunk.css",
+    "main.js": "/danielmatu.github.io/static/js/main.1908d754.chunk.js",
+    "main.js.map": "/danielmatu.github.io/static/js/main.1908d754.chunk.js.map",
+    "runtime-main.js": "/danielmatu.github.io/static/js/runtime-main.2da8588d.js",
+    "runtime-main.js.map": "/danielmatu.github.io/static/js/runtime-main.2da8588d.js.map",
+    "static/js/2.238b4104.chunk.js": "/danielmatu.github.io/static/js/2.238b4104.chunk.js",
+    "static/js/2.238b4104.chunk.js.map": "/danielmatu.github.io/static/js/2.238b4104.chunk.js.map",
+    "index.html": "/danielmatu.github.io/index.html",
+    "static/css/main.00075e73.chunk.css.map": "/danielmatu.github.io/static/css/main.00075e73.chunk.css.map",
+    "static/js/2.238b4104.chunk.js.LICENSE.txt": "/danielmatu.github.io/static/js/2.238b4104.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2da8588d.js",
+    "static/js/2.238b4104.chunk.js",
+    "static/css/main.00075e73.chunk.css",
+    "static/js/main.1908d754.chunk.js"
+  ]
+}

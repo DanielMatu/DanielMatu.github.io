@@ -13,14 +13,14 @@ export default function Home() {
             <Topbar />
 
             <div className="featuredSection">
-                <div className="sectionTitle">Featured Projects</div>
+                <div className="sectionTitle">Featured Projects <span className="featuredMark">*</span> </div>
                 <hr />
                 <br />
                 <div className="featuredProjects">
                     {
                         featuredProjects.map(project => (
                             <Link key={project.id} to={'/projects/' + project.id} style={{ textDecoration: 'none' }}>
-                                <ProjectPreview title={project.title} thumbnailPath={project.thumbnailPath} />
+                                <ProjectPreview title={project.title} thumbnailPath={project.thumbnailPath} isFeatured={true} />
                             </Link>
                         ))
                     }
@@ -36,7 +36,7 @@ export default function Home() {
                     {
                         projects.map(project => (
                             <Link key={project.id} to={'/projects/' + project.id} style={{ textDecoration: 'none' }}>
-                                <ProjectPreview title={project.title} thumbnailPath={project.thumbnailPath} />
+                                <ProjectPreview title={project.title} thumbnailPath={project.thumbnailPath} isFeatured={false} />
                             </Link>
                         ))
                     }
