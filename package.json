@@ -1,6 +1,6 @@
 {
-  "homepage": "https://danielMatu.github.io/danielmatu.github.io",
-  "name": "danielmatu.github.io",
+  "homepage": "https://danielmatu.github.io/portfolio",
+  "name": "porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
